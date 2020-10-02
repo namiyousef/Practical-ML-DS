@@ -6,4 +6,10 @@
 *flights.txt
 *Beijing\ PM2_5\ from\ 2010\ to\ 2017.csv
 **Beijing PM2_5 from 2010 to 2017.csv
+<<<<<<< HEAD
 .DS_Store
+=======
+Chapter 4. Deep Learning/Module 3. Making Custom Datasets/S40-data/images/
+*MNIST-data*
+*runs
+>>>>>>> upstream/master
